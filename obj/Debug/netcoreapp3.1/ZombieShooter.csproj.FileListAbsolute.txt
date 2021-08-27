@@ -1,0 +1,17 @@
+C:\Users\iHateEverything\source\repos\ZombieShooter\ZombieShooter\bin\Debug\netcoreapp3.1\ZombieShooter.deps.json
+C:\Users\iHateEverything\source\repos\ZombieShooter\ZombieShooter\bin\Debug\netcoreapp3.1\ZombieShooter.dll
+C:\Users\iHateEverything\source\repos\ZombieShooter\ZombieShooter\bin\Debug\netcoreapp3.1\ZombieShooter.pdb
+C:\Users\iHateEverything\source\repos\ZombieShooter\ZombieShooter\bin\Debug\netcoreapp3.1\Assembly-CSharp.dll
+C:\Users\iHateEverything\source\repos\ZombieShooter\ZombieShooter\bin\Debug\netcoreapp3.1\Exiled.API.dll
+C:\Users\iHateEverything\source\repos\ZombieShooter\ZombieShooter\bin\Debug\netcoreapp3.1\Exiled.Events.dll
+C:\Users\iHateEverything\source\repos\ZombieShooter\ZombieShooter\bin\Debug\netcoreapp3.1\Exiled.Loader.dll
+C:\Users\iHateEverything\source\repos\ZombieShooter\ZombieShooter\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+C:\Users\iHateEverything\source\repos\ZombieShooter\ZombieShooter\bin\Debug\netcoreapp3.1\Exiled.Permissions.dll
+C:\Users\iHateEverything\source\repos\ZombieShooter\ZombieShooter\obj\Debug\netcoreapp3.1\ZombieShooter.csproj.AssemblyReference.cache
+C:\Users\iHateEverything\source\repos\ZombieShooter\ZombieShooter\obj\Debug\netcoreapp3.1\ZombieShooter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iHateEverything\source\repos\ZombieShooter\ZombieShooter\obj\Debug\netcoreapp3.1\ZombieShooter.AssemblyInfoInputs.cache
+C:\Users\iHateEverything\source\repos\ZombieShooter\ZombieShooter\obj\Debug\netcoreapp3.1\ZombieShooter.AssemblyInfo.cs
+C:\Users\iHateEverything\source\repos\ZombieShooter\ZombieShooter\obj\Debug\netcoreapp3.1\ZombieShooter.csproj.CoreCompileInputs.cache
+C:\Users\iHateEverything\source\repos\ZombieShooter\ZombieShooter\obj\Debug\netcoreapp3.1\ZombieShooter.csproj.CopyComplete
+C:\Users\iHateEverything\source\repos\ZombieShooter\ZombieShooter\obj\Debug\netcoreapp3.1\ZombieShooter.dll
+C:\Users\iHateEverything\source\repos\ZombieShooter\ZombieShooter\obj\Debug\netcoreapp3.1\ZombieShooter.pdb

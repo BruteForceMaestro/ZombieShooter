@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>A:\Desktop\Exiled (6).tar\Exiled (6)\Assembly-CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Exiled.API">
+      <HintPath>A:\Desktop\Exiled (1).tar\Exiled (1)\EXILED\Plugins\dependencies\Exiled.API.dll</HintPath>
+    </Reference>
+    <Reference Include="Exiled.Events">
+      <HintPath>A:\Desktop\Exiled (1).tar\Exiled (1)\EXILED\Plugins\Exiled.Events.dll</HintPath>
+    </Reference>
+    <Reference Include="Exiled.Loader">
+      <HintPath>A:\Desktop\Exiled (5).tar\Exiled (5)\EXILED\Exiled.Loader.dll</HintPath>
+    </Reference>
+    <Reference Include="YamlDotNet">
+      <HintPath>A:\Desktop\Exiled (6).tar\Exiled (6)\EXILED\Plugins\dependencies\YamlDotNet.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
