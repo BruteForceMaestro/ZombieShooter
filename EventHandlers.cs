@@ -14,7 +14,7 @@ namespace ZombieShooter
                 int Num2 = random.Next(1, 4);
                 if (Num1 == Num2)
                 {
-                    ev.Player.ShowHint("You are a zombie shooter!", duration: 10f);
+                    ev.Player.ShowHint("You are a zombie shooter!\nPress 1 on your keyboard to equip a gun!", duration: 10f);
                     ev.Items.Add(ItemType.GunCOM15);
                     for (int i = 0; i <= Config.mags; i++)
                     {
